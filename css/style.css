@@ -82,6 +82,10 @@ body {
     height: auto;
 }
 
+.about{
+    margin-bottom: 15px;
+}
+
 .boxes {
     display: flex;
     flex-wrap: wrap;
